@@ -5,4 +5,9 @@ function add(){
     return a+b;
 }
 
+function multiply(){
+    return a*b;
+}
+
 console.log(add());
+console.log(multiply());
