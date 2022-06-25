@@ -9,5 +9,10 @@ function multiply(){
     return a*b;
 }
 
+function divide(){
+    return a%b;
+}
+
 console.log(add());
 console.log(multiply());
+console.log(divide());
